@@ -1,1 +1,3 @@
 # Token
+bull
+bear
